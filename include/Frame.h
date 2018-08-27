@@ -23,6 +23,7 @@
 
 #include<vector>
 #include<iomanip>
+#include<unistd.h>
 
 #include "MapPoint.h"
 #include "Thirdparty/DBoW2/DBoW2/BowVector.h"

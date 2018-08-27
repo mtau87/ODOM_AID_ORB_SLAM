@@ -29,10 +29,9 @@
 
 #include<opencv2/core/core.hpp>
 
-#include"/home/doom/odom_aid/ORB_SLAM2/include/System.h"
-
-#include "/home/doom/odom_aid/ORB_SLAM2/include/Odom/odomdata.h"
-#include "/home/doom/odom_aid/ORB_SLAM2/include/Odom/configparam.h"
+#include<System.h>
+#include<Odom/odomdata.h>
+#include<Odom/configparam.h>
 
 #include "MsgSync/MsgSynchronizer.h"
 
