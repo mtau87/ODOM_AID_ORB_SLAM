@@ -1,11 +1,10 @@
-	Examples/ROS/ORB_SLAM2/ODOM
-	Examples/ROS/ORB_SLAM2/build/
-	Thirdparty/DBoW2/build/
-	Thirdparty/DBoW2/lib/
-	Thirdparty/Sophus/
-	Thirdparty/g2o/build/
-	Thirdparty/g2o/lib/
-	Vocabulary/ORBvoc.txt
-	build/
-	lib/
-
+Examples/ROS/ORB_SLAM2/ODOM
+Examples/ROS/ORB_SLAM2/build/
+Thirdparty/DBoW2/build/
+Thirdparty/DBoW2/lib/
+Thirdparty/Sophus/
+Thirdparty/g2o/build/
+Thirdparty/g2o/lib/
+Vocabulary/ORBvoc.txt
+build/
+lib/
